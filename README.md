@@ -1,2 +1,3 @@
-# rust-clap-lab
-Fooling around with the clap command-line argument parser
+# Rust CLAP Lab
+Fooling around with the [CLAP command-line argument parser](https://github.com/clap-rs/clap)
+
